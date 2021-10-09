@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "635035381918",
+    "firebase_url": "https://popstar-2332f.firebaseio.com",
+    "project_id": "popstar-2332f",
+    "storage_bucket": "popstar-2332f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635035381918:android:74b7643646b9fc52f5cb8f",
+        "android_client_info": {
+          "package_name": "com.example.popstar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635035381918-kk7st6qpi3791hjt078du1rkqi3tpi1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.popstar",
+            "certificate_hash": "7f9db8cfae0c95d8c71928826ad1b262a1367de4"
+          }
+        },
+        {
+          "client_id": "635035381918-q653583pncv6a271kcqk6d611nvk3m8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjxGGXFBdE3SDMBns_7gcWjeShnuNVIxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635035381918-q653583pncv6a271kcqk6d611nvk3m8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
